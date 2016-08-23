@@ -1,0 +1,142 @@
+10:38:53.625 [main] WARN org.ssa.ironyard.web.SpringStarter - Will this show up?
+10:38:53.629 [main] WARN org.ssa.ironyard.web.Vegetable - GREEN
+10:40:49.956 [main] WARN org.ssa.ironyard.web.SpringStarter - Will this show up?
+10:40:49.959 [main] WARN org.ssa.ironyard.web.Vegetable - Number of veggies is: 1
+10:40:49.960 [main] WARN org.ssa.ironyard.web.Vegetable - GREEN
+10:42:00.850 [main] WARN org.ssa.ironyard.web.SpringStarter - Will this show up?
+10:42:00.853 [main] WARN org.ssa.ironyard.web.Vegetable - Number of veggies is: 1
+10:42:00.853 [main] WARN org.ssa.ironyard.web.Vegetable - Number of veggies is: 2
+10:42:00.853 [main] WARN org.ssa.ironyard.web.Vegetable - Number of veggies is: 3
+10:42:00.853 [main] WARN org.ssa.ironyard.web.Vegetable - GREEN
+10:48:55.345 [main] WARN org.ssa.ironyard.web.SpringStarter - Will this show up?
+10:48:55.348 [main] WARN org.ssa.ironyard.web.Vegetable - Number of veggies is: 1
+10:48:55.348 [main] WARN org.ssa.ironyard.web.Vegetable - Number of veggies is: 2
+10:48:55.348 [main] WARN org.ssa.ironyard.web.Vegetable - Number of veggies is: 3
+10:48:55.349 [main] WARN org.ssa.ironyard.web.Vegetable - GREEN
+10:49:43.025 [http-nio-8080-exec-1] WARN org.ssa.ironyard.web.Vegetable - Number of veggies is: 4
+10:49:43.026 [http-nio-8080-exec-1] WARN org.ssa.ironyard.web.Vegetable - Number of veggies is: 5
+10:49:43.026 [http-nio-8080-exec-1] WARN org.ssa.ironyard.web.Vegetable - Number of veggies is: 6
+10:59:21.203 [main] WARN org.ssa.ironyard.web.SpringStarter - Will this show up?
+10:59:21.206 [main] WARN org.ssa.ironyard.web.Vegetable - Number of veggies is: 1
+10:59:21.207 [main] WARN org.ssa.ironyard.web.Vegetable - Number of veggies is: 2
+10:59:21.207 [main] WARN org.ssa.ironyard.web.Vegetable - Number of veggies is: 3
+10:59:21.207 [main] WARN org.ssa.ironyard.web.Vegetable - GREEN
+11:00:06.471 [main] WARN org.ssa.ironyard.web.SpringStarter - Will this show up?
+11:00:06.475 [main] WARN org.ssa.ironyard.web.Vegetable - Number of veggies is: 1
+11:00:06.475 [main] WARN org.ssa.ironyard.web.Vegetable - Number of veggies is: 2
+11:00:06.475 [main] WARN org.ssa.ironyard.web.Vegetable - Number of veggies is: 3
+11:00:06.476 [main] WARN org.ssa.ironyard.web.Vegetable - GREEN
+11:13:59.276 [main] WARN org.ssa.ironyard.web.SpringStarter - Will this show up?
+11:13:59.278 [main] WARN org.ssa.ironyard.web.Vegetable - Number of veggies is: 1
+11:13:59.278 [main] WARN org.ssa.ironyard.web.Vegetable - Number of veggies is: 2
+11:13:59.278 [main] WARN org.ssa.ironyard.web.Vegetable - Number of veggies is: 3
+11:13:59.279 [main] WARN org.ssa.ironyard.web.Vegetable - GREEN
+11:20:37.585 [main] WARN org.ssa.ironyard.web.SpringStarter - Will this show up?
+11:20:37.588 [main] WARN org.ssa.ironyard.web.Vegetable - Number of veggies is: 1
+11:20:37.588 [main] WARN org.ssa.ironyard.web.Vegetable - Number of veggies is: 2
+11:20:37.588 [main] WARN org.ssa.ironyard.web.Vegetable - Number of veggies is: 3
+11:20:37.588 [main] WARN org.ssa.ironyard.web.Vegetable - GREEN
+11:21:33.637 [main] WARN org.ssa.ironyard.web.SpringStarter - Will this show up?
+11:21:33.640 [main] WARN org.ssa.ironyard.web.Vegetable - Number of veggies is: 1
+11:21:33.640 [main] WARN org.ssa.ironyard.web.Vegetable - Number of veggies is: 2
+11:21:33.640 [main] WARN org.ssa.ironyard.web.Vegetable - Number of veggies is: 3
+11:21:33.640 [main] WARN org.ssa.ironyard.web.Vegetable - GREEN
+12:50:32.197 [main] WARN org.ssa.ironyard.web.SpringStarter - Will this show up?
+12:50:32.200 [main] WARN org.ssa.ironyard.web.Vegetable - Number of veggies is: 1
+12:50:32.200 [main] WARN org.ssa.ironyard.web.Vegetable - Number of veggies is: 2
+12:50:32.200 [main] WARN org.ssa.ironyard.web.Vegetable - Number of veggies is: 3
+12:50:32.201 [main] WARN org.ssa.ironyard.web.Vegetable - GREEN
+12:53:57.354 [main] WARN org.ssa.ironyard.web.SpringStarter - Will this show up?
+12:53:57.357 [main] WARN org.ssa.ironyard.web.Vegetable - Number of veggies is: 1
+12:53:57.357 [main] WARN org.ssa.ironyard.web.Vegetable - Number of veggies is: 2
+12:53:57.357 [main] WARN org.ssa.ironyard.web.Vegetable - Number of veggies is: 3
+12:53:57.358 [main] WARN org.ssa.ironyard.web.Vegetable - GREEN
+12:55:28.621 [main] WARN org.ssa.ironyard.web.SpringStarter - Will this show up?
+12:55:28.624 [main] WARN org.ssa.ironyard.web.Vegetable - Number of veggies is: 1
+12:55:28.624 [main] WARN org.ssa.ironyard.web.Vegetable - Number of veggies is: 2
+12:55:28.624 [main] WARN org.ssa.ironyard.web.Vegetable - Number of veggies is: 3
+12:55:28.625 [main] WARN org.ssa.ironyard.web.Vegetable - GREEN
+12:58:41.903 [main] WARN org.ssa.ironyard.web.SpringStarter - Will this show up?
+12:58:41.907 [main] WARN org.ssa.ironyard.web.Vegetable - Number of veggies is: 1
+12:58:41.907 [main] WARN org.ssa.ironyard.web.Vegetable - Number of veggies is: 2
+12:58:41.907 [main] WARN org.ssa.ironyard.web.Vegetable - Number of veggies is: 3
+12:58:41.908 [main] WARN org.ssa.ironyard.web.Vegetable - GREEN
+12:59:03.899 [http-nio-8080-exec-1] WARN org.ssa.ironyard.web.Vegetable - Number of veggies is: 4
+12:59:04.025 [http-nio-8080-exec-1] WARN org.ssa.ironyard.web.Vegetable - GREEN
+12:59:15.301 [http-nio-8080-exec-3] WARN org.ssa.ironyard.web.Vegetable - Number of veggies is: 5
+12:59:15.304 [http-nio-8080-exec-3] WARN org.ssa.ironyard.web.Vegetable - GREEN
+13:04:59.145 [http-nio-8080-exec-6] WARN org.ssa.ironyard.web.Vegetable - Number of veggies is: 6
+13:04:59.148 [http-nio-8080-exec-6] WARN org.ssa.ironyard.web.Vegetable - GREEN
+13:06:27.915 [main] WARN org.ssa.ironyard.web.SpringStarter - Will this show up?
+13:06:27.917 [main] WARN org.ssa.ironyard.web.Vegetable - Number of veggies is: 1
+13:06:27.917 [main] WARN org.ssa.ironyard.web.Vegetable - Number of veggies is: 2
+13:06:27.917 [main] WARN org.ssa.ironyard.web.Vegetable - Number of veggies is: 3
+13:06:27.918 [main] WARN org.ssa.ironyard.web.Vegetable - GREEN
+13:06:32.872 [http-nio-8080-exec-1] WARN org.ssa.ironyard.web.Vegetable - Number of veggies is: 4
+13:06:32.999 [http-nio-8080-exec-1] WARN org.ssa.ironyard.web.Vegetable - GREEN
+13:06:49.141 [http-nio-8080-exec-3] WARN org.ssa.ironyard.web.Vegetable - Number of veggies is: 5
+13:06:49.145 [http-nio-8080-exec-3] WARN org.ssa.ironyard.web.Vegetable - GREEN
+13:07:06.386 [http-nio-8080-exec-5] WARN org.ssa.ironyard.web.Vegetable - Number of veggies is: 6
+13:07:06.394 [http-nio-8080-exec-5] WARN org.ssa.ironyard.web.Vegetable - GREEN
+16:16:47.335 [main] WARN org.ssa.ironyard.web.SpringStarter - Will this show up?
+16:16:47.338 [main] WARN org.ssa.ironyard.web.Vegetable - Number of veggies is: 1
+16:16:47.338 [main] WARN org.ssa.ironyard.web.Vegetable - Number of veggies is: 2
+16:16:47.338 [main] WARN org.ssa.ironyard.web.Vegetable - Number of veggies is: 3
+16:16:47.339 [main] WARN org.ssa.ironyard.web.Vegetable - GREEN
+16:17:50.636 [main] WARN org.ssa.ironyard.web.SpringStarter - Will this show up?
+16:17:50.638 [main] WARN org.ssa.ironyard.web.Vegetable - Number of veggies is: 1
+16:17:50.638 [main] WARN org.ssa.ironyard.web.Vegetable - Number of veggies is: 2
+16:17:50.638 [main] WARN org.ssa.ironyard.web.Vegetable - Number of veggies is: 3
+16:17:50.639 [main] WARN org.ssa.ironyard.web.Vegetable - GREEN
+16:19:22.575 [main] WARN org.ssa.ironyard.web.SpringStarter - Will this show up?
+16:19:22.578 [main] WARN org.ssa.ironyard.web.Vegetable - Number of veggies is: 1
+16:19:22.578 [main] WARN org.ssa.ironyard.web.Vegetable - Number of veggies is: 2
+16:19:22.578 [main] WARN org.ssa.ironyard.web.Vegetable - Number of veggies is: 3
+16:19:22.579 [main] WARN org.ssa.ironyard.web.Vegetable - GREEN
+16:21:07.953 [main] WARN org.ssa.ironyard.web.SpringStarter - Will this show up?
+16:21:07.957 [main] WARN org.ssa.ironyard.web.Vegetable - Number of veggies is: 1
+16:21:07.957 [main] WARN org.ssa.ironyard.web.Vegetable - Number of veggies is: 2
+16:21:07.957 [main] WARN org.ssa.ironyard.web.Vegetable - Number of veggies is: 3
+16:21:07.958 [main] WARN org.ssa.ironyard.web.Vegetable - GREEN
+16:22:07.338 [main] WARN org.ssa.ironyard.web.SpringStarter - Will this show up?
+16:22:07.341 [main] WARN org.ssa.ironyard.web.Vegetable - Number of veggies is: 1
+16:22:07.341 [main] WARN org.ssa.ironyard.web.Vegetable - Number of veggies is: 2
+16:22:07.341 [main] WARN org.ssa.ironyard.web.Vegetable - Number of veggies is: 3
+16:22:07.342 [main] WARN org.ssa.ironyard.web.Vegetable - GREEN
+16:23:10.737 [main] WARN org.ssa.ironyard.web.SpringStarter - Will this show up?
+16:23:10.739 [main] WARN org.ssa.ironyard.web.Vegetable - Number of veggies is: 1
+16:23:10.739 [main] WARN org.ssa.ironyard.web.Vegetable - Number of veggies is: 2
+16:23:10.739 [main] WARN org.ssa.ironyard.web.Vegetable - Number of veggies is: 3
+16:23:10.740 [main] WARN org.ssa.ironyard.web.Vegetable - GREEN
+16:27:13.032 [main] WARN org.ssa.ironyard.web.SpringStarter - Will this show up?
+16:27:13.034 [main] WARN org.ssa.ironyard.web.Vegetable - Number of veggies is: 1
+16:27:13.035 [main] WARN org.ssa.ironyard.web.Vegetable - Number of veggies is: 2
+16:27:13.035 [main] WARN org.ssa.ironyard.web.Vegetable - Number of veggies is: 3
+16:27:13.036 [main] WARN org.ssa.ironyard.web.Vegetable - GREEN
+16:30:13.930 [main] WARN org.ssa.ironyard.web.SpringStarter - Will this show up?
+16:30:13.933 [main] WARN org.ssa.ironyard.web.Vegetable - Number of veggies is: 1
+16:30:13.933 [main] WARN org.ssa.ironyard.web.Vegetable - Number of veggies is: 2
+16:30:13.933 [main] WARN org.ssa.ironyard.web.Vegetable - Number of veggies is: 3
+16:30:13.934 [main] WARN org.ssa.ironyard.web.Vegetable - GREEN
+16:37:33.751 [main] WARN org.ssa.ironyard.web.SpringStarter - Will this show up?
+16:37:33.761 [main] WARN org.ssa.ironyard.web.Vegetable - Number of veggies is: 1
+16:37:33.761 [main] WARN org.ssa.ironyard.web.Vegetable - Number of veggies is: 2
+16:37:33.761 [main] WARN org.ssa.ironyard.web.Vegetable - Number of veggies is: 3
+16:37:33.761 [main] WARN org.ssa.ironyard.web.Vegetable - GREEN
+16:43:04.690 [main] WARN org.ssa.ironyard.web.SpringStarter - Will this show up?
+16:43:04.690 [main] WARN org.ssa.ironyard.web.Vegetable - Number of veggies is: 1
+16:43:04.690 [main] WARN org.ssa.ironyard.web.Vegetable - Number of veggies is: 2
+16:43:04.690 [main] WARN org.ssa.ironyard.web.Vegetable - Number of veggies is: 3
+16:43:04.700 [main] WARN org.ssa.ironyard.web.Vegetable - GREEN
+16:43:07.083 [main] WARN org.ssa.ironyard.web.TrieLoadingService - file C:\Users\admin\Maven\my-app\target\classes\corncob.txt, exists?true
+16:55:21.432 [main] WARN org.ssa.ironyard.web.SpringStarter - Will this show up?
+16:55:21.442 [main] WARN org.ssa.ironyard.web.Vegetable - Number of veggies is: 1
+16:55:21.442 [main] WARN org.ssa.ironyard.web.Vegetable - Number of veggies is: 2
+16:55:21.442 [main] WARN org.ssa.ironyard.web.Vegetable - Number of veggies is: 3
+16:55:21.442 [main] WARN org.ssa.ironyard.web.Vegetable - GREEN
+16:56:46.216 [main] WARN org.ssa.ironyard.web.SpringStarter - Will this show up?
+16:56:46.226 [main] WARN org.ssa.ironyard.web.Vegetable - Number of veggies is: 1
+16:56:46.226 [main] WARN org.ssa.ironyard.web.Vegetable - Number of veggies is: 2
+16:56:46.226 [main] WARN org.ssa.ironyard.web.Vegetable - Number of veggies is: 3
+16:56:46.226 [main] WARN org.ssa.ironyard.web.Vegetable - GREEN
+16:56:48.396 [main] WARN org.ssa.ironyard.web.TrieLoadingService - file C:\Users\admin\Maven\my-app\target\classes\corncob.txt, exists?true
