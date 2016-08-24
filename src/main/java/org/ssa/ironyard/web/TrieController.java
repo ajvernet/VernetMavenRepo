@@ -1,6 +1,5 @@
 package org.ssa.ironyard.web;
 
-import java.util.ArrayList;
 import java.util.List;
 
 import javax.servlet.http.HttpServletRequest;
@@ -13,19 +12,29 @@ import org.springframework.web.bind.annotation.ResponseBody;
 
 
 
+
 @Controller
 public class TrieController {
 
    @Autowired
-    Trie t;
+    Text9Trie t;
+   
+   
+//   public void setT(Mock9Trie mock9Trie) {
+//    this.t = mock9Trie;
+//    }
     
     @RequestMapping("/Trie")
     @ResponseBody
     public List<String> getCorn(HttpServletRequest request)
     {
-        if(request.getParameter(("digits")) != null)
+        
+        if(request.getParameter(("digits")) != null){
             return t.suggest(request.getParameter("digits"));
-        return new ArrayList<String>(0);
+        } else {throw new IllegalArgumentException("you must provide digits");}
+        
+        
+       // return new ArrayList<String>(0);
  
         
     }

@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+Test set: org.ssa.ironyard.web.TrieControllerTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 1.1 sec <<< FAILURE! - in org.ssa.ironyard.web.TrieControllerTest
+empty(org.ssa.ironyard.web.TrieControllerTest)  Time elapsed: 1.1 sec  <<< ERROR!
+java.lang.NullPointerException: null
+	at org.ssa.ironyard.web.TrieController.getCorn(TrieController.java:33)
+	at org.ssa.ironyard.web.TrieControllerTest.empty(TrieControllerTest.java:24)
+
