@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+Test set: com.ssa.ironyard.web.sudoku.ControllerTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.001 sec <<< FAILURE! - in com.ssa.ironyard.web.sudoku.ControllerTest
+easyGameTest(com.ssa.ironyard.web.sudoku.ControllerTest)  Time elapsed: 0.001 sec  <<< ERROR!
+java.lang.NullPointerException: null
+	at com.ssa.ironyard.web.sudoku.SudokuRestController.game(SudokuRestController.java:54)
+	at com.ssa.ironyard.web.sudoku.ControllerTest.easyGameTest(ControllerTest.java:16)
+
